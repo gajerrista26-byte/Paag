@@ -1,0 +1,41 @@
+<!-- SASKIAREN EGITURA -->
+<!ELEMENT saskia (eroslea, produktua+)>
+
+<!-- EROSLEA -->
+<!ELEMENT eroslea (izena, NAN, telefonoa)>
+
+<!ELEMENT NAN (#PCDATA)>
+<!ELEMENT telefonoa (#PCDATA)>
+
+<!-- PRODUKTUA -->
+<!ELEMENT produktua (
+    izena,
+    deskribapena,
+    kategoriak,
+    kantitatea,
+    prezioa,
+    osagaiak,
+    ekoizlea
+)>
+
+<!ATTLIST produktua
+    id ID #REQUIRED
+>
+
+<!-- PRODUKTUAREN DATUAK -->
+<!ELEMENT izena (#PCDATA)>
+<!ELEMENT deskribapena (#PCDATA)>
+<!ELEMENT kantitatea (#PCDATA)>
+<!ELEMENT prezioa (#PCDATA)>
+
+<!-- KATEGORIAK -->
+<!ELEMENT kategoriak (kategoria+)>
+<!ELEMENT kategoria (#PCDATA)>
+
+<!-- OSAGAIAK -->
+<!ELEMENT osagaiak (osagai+)>
+<!ELEMENT osagai (#PCDATA)>
+
+<!-- EKOIZLEA -->
+<!ELEMENT ekoizlea (izena, helbidea)>
+<!ELEMENT helbidea (#PCDATA)>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE saskia SYSTEM "saski.dtd">
+
+<saskia>
+
+    <produktua id="P001">
+        <izena>Ordenagailua</izena>
+        <kantitatea>1</kantitatea>
+        <prezioa>750.00</prezioa>
+    </produktua>
+
+    <produktua id="P002">
+        <izena>Sagua</izena>
+        <kantitatea>2</kantitatea>
+        <prezioa>15.50</prezioa>
+    </produktua>
+
+    <produktua id="P003">
+        <izena>Teklatua</izena>
+        <kantitatea>1</kantitatea>
+        <prezioa>35.00</prezioa>
+    </produktua>
+
+    <produktua id="P004">
+        <izena>Entzungailuak</izena>
+        <kantitatea>1</kantitatea>
+        <prezioa>29.99</prezioa>
+    </produktua>
+
+</saskia>

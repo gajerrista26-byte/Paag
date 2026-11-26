@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE saskia SYSTEM "saski.dtd">
+
+<saskia>
+
+    <!-- EROSLEAREN DATUAK -->
+    <eroslea>
+        <izena>Jon Martinez</izena>
+        <NAN>12345678A</NAN>
+        <telefonoa>600123456</telefonoa>
+    </eroslea>
+
+    <!-- LEHENENGO PRODUKTUA -->
+    <produktua id="P001">
+
+        <izena>Ordenagailua</izena>
+
+        <deskribapena>
+            Ordenagailu eramangarria, 15 hazbeteko pantailarekin.
+        </deskribapena>
+
+        <kategoriak>
+            <kategoria>Elektronika</kategoria>
+            <kategoria>Informatika</kategoria>
+        </kategoriak>
+
+        <kantitatea>1</kantitatea>
+
+        <prezioa>750.00</prezioa>
+
+        <osagaiak>
+            <osagai>Prozesadorea</osagai>
+            <osagai>RAM memoria</osagai>
+            <osagai>Disko gogorra</osagai>
+        </osagaiak>
+
+        <ekoizlea>
+            <izena>HP</izena>
+            <helbidea>Camino de Garzo, 1, Madrid</helbidea>
+        </ekoizlea>
+
+    </produktua>
+
+    <!-- BIGARREN PRODUKTUA -->
+    <produktua id="P002">
+
+        <izena>Sagua</izena>
+
+        <deskribapena>
+            Haririk gabeko ordenagailuko sagua.
+        </deskribapena>
+
+        <kategoriak>
+            <kategoria>Informatika</kategoria>
+            <kategoria>Osagarriak</kategoria>
+        </kategoriak>
+
+        <kantitatea>2</kantitatea>
+
+        <prezioa>15.50</prezioa>
+
+        <osagaiak>
+            <osagai>Plastikoa</osagai>
+            <osagai>Sentsore optikoa</osagai>
+            <osagai>Pila</osagai>
+        </osagaiak>
+
+        <ekoizlea>
+            <izena>Logitech</izena>
+            <helbidea>EPFL - Lausanne, Suitza</helbidea>
+        </ekoizlea>
+
+    </produktua>
+
+    <!-- HIRUGARREN PRODUKTUA -->
+    <produktua id="P003">
+
+        <izena>Teklatua</izena>
+
+        <deskribapena>
+            Teklatu mekanikoa, USB konexioarekin.
+        </deskribapena>
+
+        <kategoriak>
+            <kategoria>Informatika</kategoria>
+            <kategoria>Osagarriak</kategoria>
+        </kategoriak>
+
+        <kantitatea>1</kantitatea>
+
+        <prezioa>45.00</prezioa>
+
+        <osagaiak>
+            <osagai>Plastikoa</osagai>
+            <osagai>Metala</osagai>
+            <osagai>Zirkuitu elektronikoa</osagai>
+        </osagaiak>
+
+        <ekoizlea>
+            <izena>Logitech</izena>
+            <helbidea>EPFL - Lausanne, Suitza</helbidea>
+        </ekoizlea>
+
+    </produktua>
+
+</saskia>
