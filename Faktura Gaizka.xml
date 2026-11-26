@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Faktura>
+
+    <Goiburua>
+        <Izenburua>Faktura</Izenburua>
+        <Data></Data>
+        <Zenbakia></Zenbakia>
+    </Goiburua>
+
+    <Bezeroa>
+        <Izena></Izena>
+        <IFK_NAN></IFK_NAN>
+        <Helbidea></Helbidea>
+        <HelbideOsagarria></HelbideOsagarria>
+        <CIF_DNI></CIF_DNI>
+        <Herria></Herria>
+        <Lokalitatea></Lokalitatea>
+    </Bezeroa>
+
+    <Produktuak>
+
+        <Produktua>
+            <Kopurua></Kopurua>
+            <Kontzeptua></Kontzeptua>
+            <Prezioa></Prezioa>
+            <Zenbatekoa></Zenbatekoa>
+        </Produktua>
+
+        <Produktua>
+            <Kopurua></Kopurua>
+            <Kontzeptua></Kontzeptua>
+            <Prezioa></Prezioa>
+            <Zenbatekoa></Zenbatekoa>
+        </Produktua>
+
+        <Produktua>
+            <Kopurua></Kopurua>
+            <Kontzeptua></Kontzeptua>
+            <Prezioa></Prezioa>
+            <Zenbatekoa></Zenbatekoa>
+        </Produktua>
+
+        <Produktua>
+            <Kopurua></Kopurua>
+            <Kontzeptua></Kontzeptua>
+            <Prezioa></Prezioa>
+            <Zenbatekoa></Zenbatekoa>
+        </Produktua>
+
+    </Produktuak>
+
+    <Baldintzak>
+        <Baldintza></Baldintza>
+        <Baldintza></Baldintza>
+        <Baldintza></Baldintza>
+        <Baldintza></Baldintza>
+    </Baldintzak>
+
+    <Guztira>
+        <BEZ portzentaia=""></BEZ>
+        <IVA portzentaia=""></IVA>
+        <GuztiraOrdaintzeko></GuztiraOrdaintzeko>
+    </Guztira>
+
+</Faktura>

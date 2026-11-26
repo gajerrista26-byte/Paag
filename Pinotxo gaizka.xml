@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PelikulenKritika>
+
+    <!-- FILMAREN DATUAK -->
+    <Filma>
+        <Izenburua>Pinocho de Guillermo del Toro</Izenburua>
+        <Urtea>2022</Urtea>
+        <Herrialdea>Estados Unidos</Herrialdea>
+        <Plataforma>Netflix</Plataforma>
+        <Generoa>Drama, fantastikoa</Generoa>
+        <Iraupena>117 minutu</Iraupena>
+        <Estreinaldia>25-11-2022</Estreinaldia>
+    </Filma>
+
+    <!-- ZUZENDARIA ETA GIDOIA -->
+    <TaldeTeknikoa>
+        <Zuzendariak>
+            <Zuzendaria>Guillermo del Toro</Zuzendaria>
+            <Zuzendaria>Mark Gustafson</Zuzendaria>
+        </Zuzendariak>
+
+        <Gidoilariak>
+            <Gidoilaria>Guillermo del Toro</Gidoilaria>
+            <Gidoilaria>Patrick McHale</Gidoilaria>
+        </Gidoilariak>
+
+        <JatorrizkoEgilea>Carlo Collodi</JatorrizkoEgilea>
+    </TaldeTeknikoa>
+
+    <!-- KRITIKAREN DATUAK -->
+    <Kritika>
+        <Izenburua>
+            Critica de Pinocho de Guillermo del Toro,
+            la joya en stop motion de Netflix
+        </Izenburua>
+
+        <Egilea>Mireia Mullor</Egilea>
+        <ArgitalpenData>25-11-2022</ArgitalpenData>
+        <Webgunea>Fotogramas</Webgunea>
+
+        <Azpititulua>
+            Para redescubrir un clásico desde una nueva perspectiva.
+        </Azpititulua>
+
+        <!-- KRITIKAREN EDUKIA -->
+        <Edukia>
+
+            <Paragrafoa>
+                Guillermo del Tororen Pinocho filmak
+                Carlo Collodiren istorio klasikoa
+                ikuspegi berri batetik kontatzen du.
+            </Paragrafoa>
+
+            <Paragrafoa>
+                Istorioa 1930eko hamarkadako Italia faxistan
+                kokatzen da. Filmaren gai nagusiak askatasuna,
+                maitasuna, desberdintasuna eta obedientzia dira.
+            </Paragrafoa>
+
+            <Paragrafoa>
+                Filmaren animazioa stop motion teknikarekin
+                egina dago, eta pertsonaien diseinua eta
+                paisaien xehetasunak nabarmentzen dira.
+            </Paragrafoa>
+
+            <Paragrafoa>
+                Kritikak filmaren irudien kalitatea eta
+                animazio artistikoa goraipatzen ditu.
+                Musikak, ordea, ez du hainbesteko indarrik.
+            </Paragrafoa>
+
+        </Edukia>
+
+        <!-- KRITIKAREN BALORAZIOA -->
+        <Balorazioa>
+
+            <AldePositiboak>
+                Animazio artistiko ederra eta
+                pertsonaien diseinu berezia.
+            </AldePositiboak>
+
+            <AldeNegatiboak>
+                Abestiak ez dira guztiz egokitzen
+                istorioaren barruan.
+            </AldeNegatiboak>
+
+        </Balorazioa>
+
+    </Kritika>
+
+    <!-- SINOPSIA -->
+    <Sinopsia>
+        Faxismoaren garaiko Italian, magiaz biziberritutako
+        egurrezko haur batek bere aitaren itxaropenak
+        betetzeko borrokatzen du.
+    </Sinopsia>
+
+    <!-- ITURRIA -->
+    <Iturria>
+        <Webgunea>Fotogramas</Webgunea>
+        <Esteka>
+            https://www.fotogramas.es/peliculas-criticas/a42065200/pinocho-guillermo-del-toro-critica-netflix/
+        </Esteka>
+    </Iturria>
+
+</PelikulenKritika>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<erronka>
+    <jokalariak>
+        <jokalaria>
+            <izena>Unai</izena>
+            <jokoa>Snake</jokoa>
+            <puntuak>1500</puntuak>
+            <data>2026-11-15</data>
+            <ordua>10:30:00</ordua>
+        </jokalaria>
+
+        <jokalaria>
+            <izena>Unai</izena>
+            <jokoa>Pacman</jokoa>
+            <puntuak>2300</puntuak>
+            <data>2026-11-16</data>
+            <ordua>12:45:00</ordua>
+        </jokalaria>
+
+        <jokalaria>
+            <izena>Ane</izena>
+            <jokoa>Snake</jokoa>
+            <puntuak>1800</puntuak>
+            <data>2026-11-15</data>
+            <ordua>11:15:00</ordua>
+        </jokalaria>
+
+        <jokalaria>
+            <izena>Ane</izena>
+            <jokoa>Pacman</jokoa>
+            <puntuak>2100</puntuak>
+            <data>2026-11-16</data>
+            <ordua>13:20:00</ordua>
+        </jokalaria>
+
+        <jokalaria>
+            <izena>Jon</izena>
+            <jokoa>Snake</jokoa>
+            <puntuak>1200</puntuak>
+            <data>2026-11-15</data>
+            <ordua>12:00:00</ordua>
+        </jokalaria>
+
+        <jokalaria>
+            <izena>Jon</izena>
+            <jokoa>Pacman</jokoa>
+            <puntuak>2500</puntuak>
+            <data>2026-11-16</data>
+            <ordua>14:10:00</ordua>
+        </jokalaria>
+    </jokalariak>
+</erronka>

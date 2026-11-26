@@ -1,0 +1,27 @@
+{
+  "erronka": {
+    "jokalariak": [
+      {
+        "izena": "Unai",
+        "puntuazioak": [
+          {"jokoa": "Snake", "puntuak": 1500},
+          {"jokoa": "Pacman", "puntuak": 2300}
+        ]
+      },
+      {
+        "izena": "Ane",
+        "puntuazioak": [
+          {"jokoa": "Snake", "puntuak": 1800},
+          {"jokoa": "Pacman", "puntuak": 2100}
+        ]
+      },
+      {
+        "izena": "Jon",
+        "puntuazioak": [
+          {"jokoa": "Snake", "puntuak": 1200},
+          {"jokoa": "Pacman", "puntuak": 2500}
+        ]
+      }
+    ]
+  }
+}
